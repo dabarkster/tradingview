@@ -1,0 +1,2 @@
+SYM,DEM,WEM,MEM
+SPY,1,1,1
